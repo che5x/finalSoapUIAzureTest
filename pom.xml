@@ -29,12 +29,12 @@
 						<groupId>com.smartbear.soapui</groupId>
 						<artifactId>soapui</artifactId>
 						<version>5.3.0</version>
-						<exclusions>
+						<!--<exclusions>
 							<exclusion>
 								<groupId>javafx</groupId>
 								<artifactId>jfxrt</artifactId>
 							</exclusion>
-						</exclusions>
+						</exclusions>-->
 					</dependency>
 				</dependencies>
 				<groupId>com.smartbear.soapui</groupId>
